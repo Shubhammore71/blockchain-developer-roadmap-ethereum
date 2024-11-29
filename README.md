@@ -16,7 +16,6 @@ A comprehensive guide to becoming a blockchain developer with a specialization i
 6. [Project Ideas](#project-ideas)
 7. [Recommended Tools](#recommended-tools)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
