@@ -174,10 +174,4 @@ Contributions are welcome! If you have suggestions or additional resources to sh
 
 ---
 
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify this roadmap as needed.
-
----
-
 Start your blockchain development journey today and become a part of the future of technology! 🚀
