@@ -85,6 +85,10 @@ Familiarity with at least one programming language is essential. Here are some s
 
 ## Resources by Level 📚
 
+#### The Bible of Blockchain Development 📖
+- [Blockchain Development Complete Playlist](https://www.youtube.com/watch?v=umepbfKp5rI&list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42) *(YouTube)*  
+  This comprehensive playlist covers everything you need to get started with blockchain development, from foundational concepts to practical implementation.
+
 ### Beginner
 
 #### Step 1: Understand Blockchain Basics
