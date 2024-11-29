@@ -100,6 +100,7 @@ Familiarity with at least one programming language is essential. Here are some s
 - [MetaMask Wallet](https://metamask.io/) *(Ethereum Wallet)*
 
 #### Suggested Video Tutorials
+- [Ethereum Development Beginner Tutorial](https://youtu.be/umepbfKp5rI?si=_BQy_QFkt3caVLJ7) *(YouTube)*
 - [Introduction to Blockchain and Ethereum](https://youtu.be/SSo_EIwHSd4) *(YouTube)*
 - [Understanding Smart Contracts](https://youtu.be/ZE2HxTmxfrI) *(YouTube)*
 
